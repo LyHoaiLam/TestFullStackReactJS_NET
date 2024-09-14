@@ -78,3 +78,4 @@ C:\Users\Acer\OneDrive\Máy tính\Test\Test\test\bin\Debug\net8.0\Microsoft.Exte
 C:\Users\Acer\OneDrive\Máy tính\Test\Test\test\bin\Debug\net8.0\Microsoft.Extensions.Diagnostics.HealthChecks.Abstractions.dll
 C:\Users\Acer\OneDrive\Máy tính\Test\Test\test\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
 C:\Users\Acer\OneDrive\Máy tính\Test\Test\test\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+C:\Users\Acer\OneDrive\Máy tính\Test\Test\test\obj\Debug\net8.0\test.sourcelink.json

@@ -1,8 +1,3 @@
-using System;
-using System.Data.SqlClient;
-using System.Threading.Tasks;
-using Microsoft.Extensions.Configuration;
-
 namespace YourNamespace.Services
 {
     public class Test
